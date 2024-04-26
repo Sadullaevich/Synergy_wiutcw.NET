@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Рабочий стол\FunPro.CW1.13781\SynergyDevelopment\SynergyDevelopment.DAL\obj\Debug\SynergyDevelopment.DAL.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\FunPro.CW1.13781\SynergyDevelopment\SynergyDevelopment.DAL\obj\Debug\SynergyDevelopment.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\FunPro.CW1.13781\SynergyDevelopment\SynergyDevelopment.DAL\bin\Debug\SynergyDevelopment.DAL.dll
+C:\Users\User\OneDrive\Рабочий стол\FunPro.CW1.13781\SynergyDevelopment\SynergyDevelopment.DAL\bin\Debug\SynergyDevelopment.DAL.pdb
+C:\Users\User\OneDrive\Рабочий стол\FunPro.CW1.13781\SynergyDevelopment\SynergyDevelopment.DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\OneDrive\Рабочий стол\FunPro.CW1.13781\SynergyDevelopment\SynergyDevelopment.DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\OneDrive\Рабочий стол\FunPro.CW1.13781\SynergyDevelopment\SynergyDevelopment.DAL\obj\Debug\SynergyDevelopment.DAL.csproj.CopyComplete
+C:\Users\User\OneDrive\Рабочий стол\FunPro.CW1.13781\SynergyDevelopment\SynergyDevelopment.DAL\obj\Debug\SynergyDevelopment.DAL.dll
+C:\Users\User\OneDrive\Рабочий стол\FunPro.CW1.13781\SynergyDevelopment\SynergyDevelopment.DAL\obj\Debug\SynergyDevelopment.DAL.pdb
+C:\Users\User\OneDrive\Рабочий стол\FunPro.CW1.13781\SynergyDevelopment\SynergyDevelopment.DAL\bin\Debug\SynergyDevelopment.DAL.dll.config
